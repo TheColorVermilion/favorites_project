@@ -16,9 +16,9 @@
       </tr>
     </thead>
     <tbody>
-      <td>Gavin</td>
-      <td>Lewis-Bissell</td>
-      <td>Cat</td>
+      <tr>Gavin</tr>
+      <tr>Lewis-Bissell</tr>
+      <tr>Cat</tr>
     </tbody>
 
   </table>
